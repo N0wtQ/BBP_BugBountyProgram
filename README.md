@@ -1,5 +1,7 @@
 # BBP_BugBountyProgram
 
+![BBP_N0wtQ](https://github.com/user-attachments/assets/172bc380-e124-4664-a37e-e86f23ea9bb2)
+
 Este script de Bash está diseñado para automatizar la instalación de varias herramientas de Bug Bounty. 
 
 1.- Actualiza el sistema: Primero, el script se asegura de que el sistema operativo esté al día con las últimas actualizaciones y mejoras.
