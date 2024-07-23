@@ -1,7 +1,6 @@
 # BBP_BugBountyProgram
-Install BBP (Bug Bounty) Tools
 
-Este script de Bash está diseñado para automatizar la instalación de varias herramientas de seguridad y desarrollo en un sistema basado en Debian, como Kali Linux. 
+Este script de Bash está diseñado para automatizar la instalación de varias herramientas de Bug Bounty. 
 
 1.- Actualiza el sistema: Primero, el script se asegura de que el sistema operativo esté al día con las últimas actualizaciones y mejoras.
 
@@ -11,3 +10,10 @@ Este script de Bash está diseñado para automatizar la instalación de varias h
 
 4.- Descarga e instala herramientas adicionales: Algunas herramientas se obtienen desde otras fuentes y requieren pasos específicos para la instalación, como compilar el código fuente o descargar archivos adicionales.
 
+PASOS:
+
+'''
+git clone https://github.com/N0wtQ/BBP_BugBountyProgram.git
+cd BBP_BugBountyProgram
+chmod +x bbp.sh
+'''
