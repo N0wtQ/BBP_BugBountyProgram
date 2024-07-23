@@ -11,9 +11,8 @@ Este script de Bash está diseñado para automatizar la instalación de varias h
 4.- Descarga e instala herramientas adicionales: Algunas herramientas se obtienen desde otras fuentes y requieren pasos específicos para la instalación, como compilar el código fuente o descargar archivos adicionales.
 
 PASOS:
-
-'''
+```
 git clone https://github.com/N0wtQ/BBP_BugBountyProgram.git
 cd BBP_BugBountyProgram
 chmod +x bbp.sh
-'''
+.\bbp.sh
